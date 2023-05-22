@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Matheus-Passos
 - 👀 I’m interested in learn and work with codes 
-- 🌱 I’m currently learning C and python and java and javascript
+- 🌱 I’m currently learning javascript/Html/CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
