@@ -2,7 +2,7 @@
 - 👀 I’m interested in learn and work with codes 
 - 🌱 I’m currently learning javascript/Html/CSS
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me (https://www.linkedin.com/in/matheus-passos-06405724a/)
 
 <!---
 Mat-shenis/Mat-shenis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
